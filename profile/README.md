@@ -1,3 +1,11 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=160&section=header&text=TRYTH-dev&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&lines=観光×謎解きPWAアプリ「map-riddle」開発中！;5人の学生エンジニアによる体験型プロダクト;カフェイン駆動開発でバグと交戦中...;本番デプロイは承認ボタン1つで安全稼働中🚀" alt="Typing SVG" />
+  </a>
+</div>
+
 # 🧭 TRYTH-dev
 
 観光×謎解きPWAアプリケーション **「map-riddle」** をはじめとする、体験型Webプロダクトを開発する学生プロジェクトチームです。
@@ -48,7 +56,7 @@
     </td>
     <td align="center" width="160">
       <a href="https://github.com/member2-id">
-        <img src="https://images.weserv.nl/?url=github.com/MixJuice01.png&mask=circle" width="80" height="80" alt="zyuuuukak1n" />
+        <img src="https://images.weserv.nl/?url=github.com/MixJuice01.png&mask=circle" width="80" height="80" alt="田中 宏樹" />
         <br />
         <sub><b>田中 宏樹</b></sub>
       </a>
@@ -57,7 +65,7 @@
     </td>
     <td align="center" width="160">
       <a href="https://github.com/member3-id">
-        <img src="https://images.weserv.nl/?url=github.com/ri055.png&mask=circle" width="80" height="80" alt="zyuuuukak1n" />
+        <img src="https://images.weserv.nl/?url=github.com/ri055.png&mask=circle" width="80" height="80" alt="李 朝暘" />
         <br />
         <sub><b>李 朝暘</b></sub>
       </a>
@@ -68,7 +76,7 @@
   <tr>
     <td align="center" width="160">
       <a href="https://github.com/member4-id">
-        <img src="https://images.weserv.nl/?url=github.com/j549zkamn-commits.png&mask=circle" width="80" height="80" alt="zyuuuukak1n" />
+        <img src="https://images.weserv.nl/?url=github.com/j549zkamn-commits.png&mask=circle" width="80" height="80" alt="田中 一樹" />
         <br />
         <sub><b>田中 一樹</b></sub>
       </a>
@@ -77,7 +85,7 @@
     </td>
     <td align="center" width="160">
       <a href="https://github.com/member5-id">
-        <img src="https://images.weserv.nl/?url=github.com/kan713.png&mask=circle" width="80" height="80" alt="zyuuuukak1n" />
+        <img src="https://images.weserv.nl/?url=github.com/kan713.png&mask=circle" width="80" height="80" alt="橋本 奏音" />
         <br />
         <sub><b>橋本 奏音</b></sub>
       </a>
