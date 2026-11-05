@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack & Architecture
 
-- **Frontend**: Next.js / React, Tailwind CSS, TypeScript
+- **Frontend**: 
 - **Container / Web**: Docker, Docker Compose, Nginx, Apache2
 - **Network / Tunnel**: Cloudflare Tunnel, Tailscale
 - **CI/CD Pipeline**: GitHub Actions (SSH & Tailscale integration, Environment approval gates)
