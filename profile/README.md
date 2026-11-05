@@ -13,14 +13,41 @@
 ### 🚀 Active Projects
 
 #### 🗺️ [map-riddle](https://github.com/TRYTH-dev/map-riddle)
-位置情報（GPS）と連動した観光周遊・謎解きWebアプリケーション。
+
+> **「街そのものを、巨大な脱出ゲームのフィールドへ。」**
+
+`map-riddle` は、スマートフォンの位置情報（GPS）とWebマップを活用し、実在する街や観光地を歩きながら謎を解き明かす**体験型観光周遊PWA（Progressive Web Apps）**です。  
+紙のパンフレットや専用アプリインストールの手間をなくし、ブラウザを開いた瞬間から物語と探索が始まります。
 
 [![CI/CD Pipeline](https://github.com/TRYTH-dev/map-riddle/actions/workflows/deploy.yml/badge.svg)](https://github.com/TRYTH-dev/map-riddle/actions/workflows/deploy.yml)
 ![Status](https://img.shields.io/badge/Status-In_Development-blue?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Mobile_PWA-green?style=flat-square)
 
 - 🧪 **Staging (テスト環境)**: [stage-map-riddle.zyuuuukak1n.dev](https://stage-map-riddle.zyuuuukak1n.dev/)
 - 🌐 **Production (本番環境)**: [map-riddle.zyuuuukak1n.dev](https://map-riddle.zyuuuukak1n.dev/)
 - 📖 **開発マニュアル**: [Google Docs ドキュメント](https://docs.google.com/document/d/1xdL6iOhfSZYEafGdGJoucmnR6xisjbKjX2IZee9JIZU/edit)
+
+#### 🎯 Core Gameplay & Concept (体験の流れ)
+
+```text
+[1. 地図上の異変・手がかりを察知]
+        │
+        ▼
+[2. プレイヤー自身が実際の現地へ足を運ぶ]
+        │
+        ▼
+[3. GPS範囲（ジオフェンス）到達で謎がアンロック]
+        │
+        ▼
+[4. 現地の看板・史跡・風景のディテールから答えを導く]
+```
+
+- **📍 現地到達型トリガー (Geofencing)**  
+  地図上に配置されたチェックポイントへ実際に移動し、一定の半径内に入ることで初めて次の謎やヒントが開示されます。
+- **🏛️ 観光資源の再発見 (Sightseeing × Mystery)**  
+  有名スポットだけでなく、歴史の息づく石碑や路地裏のレトロな建築物など、現地を歩いて観察しなければ気付けない要素を謎解きの手がかりとして組み込みます。
+- **⚡ インストール不要の快適性 (Lightweight PWA)**  
+  QRコードを読み取るだけで即座に開始可能。通信の不安定な屋外でもキャッシュを活用して軽快に動作します。
 
 ---
 
