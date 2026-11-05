@@ -35,4 +35,56 @@
 
 ### 👥 Team Members
 
-- **Project Manager / Lead**: [@zyuuuukak1n](https://github.com/zyuuuukak1n)
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/zyuuuukak1n">
+        <img src="https://images.weserv.nl/?url=github.com/zyuuuukak1n.png&mask=circle" width="80" height="80" alt="zyuuuukak1n" />
+        <br />
+        <sub><b>矢野 倖也</b></sub>
+      </a>
+      <br />
+      <sub>Project Manager / Lead</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/member2-id">
+        <img src="https://images.weserv.nl/?url=github.com/MixJuice01.png&mask=circle" width="80" height="80" alt="zyuuuukak1n" />
+        <br />
+        <sub><b>田中 宏樹</b></sub>
+      </a>
+      <br />
+      <sub>UI/UX Designer / Frontend Engineer（Lead）</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/member3-id">
+        <img src="https://images.weserv.nl/?url=github.com/ri055.png&mask=circle" width="80" height="80" alt="zyuuuukak1n" />
+        <br />
+        <sub><b>李 朝暘</b></sub>
+      </a>
+      <br />
+      <sub>UI/UX Designer / Frontend Engineer</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/member4-id">
+        <img src="https://images.weserv.nl/?url=github.com/j549zkamn-commits.png&mask=circle" width="80" height="80" alt="zyuuuukak1n" />
+        <br />
+        <sub><b>田中 一樹</b></sub>
+      </a>
+      <br />
+      <sub>Backend Engineer（Lead）</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/member5-id">
+        <img src="https://images.weserv.nl/?url=github.com/kan713.png&mask=circle" width="80" height="80" alt="zyuuuukak1n" />
+        <br />
+        <sub><b>橋本 奏音</b></sub>
+      </a>
+      <br />
+      <sub>Backend Engineer</sub>
+    </td>
+    <!-- 3列レイアウトのため空セル -->
+    <td align="center" width="160"></td>
+  </tr>
+</table>
